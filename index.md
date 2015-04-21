@@ -1,46 +1,59 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Spatial Carpentry
+tagline: Teaching Spatial 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+#### WHO:
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+##### iPlant Collaborative
 
-## Update Author Attributes
+This Spatial Data Carpentry site and Bootcamp area a product by the iPlant Collaborative with help from Nathan Casler and Daniel Guaderrama.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+#### WHAT:
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+The objective of this site is to provide learning materials for spatial data science.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+#### WHEN:
 
-    $ rm -rf _posts/core-samples
+First Bootcamp will be held in May 2015.
 
-Here's a sample "posts list".
+#### WHERE:
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Located at BIO5 Institude at the University of Arizona
 
-## To-Do
+#### WHY:
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+To provide a foundation for researchers and professionals looking to become more familiar with spatia data.
 
+----
+
+This documentation is created to provide fundamental data on what spatial data is, where to find it, how to manipulate it, along with some exercises. To begin, navigate through **Lessons**.
+
+----
+
+### Lessons:
+
+<table>
+  <tr>
+    <th>Lesson</th>
+    <th>Presentation</th>
+    <tr>
+      <td><a href="http://spatialcarpentry.github.io/basics/">Basics</a></td>
+      <td>One Pres</td>
+    </tr>
+    <tr>
+      <td>Two</td>
+      <Td>Two Pres</td>
+    </tr>
+    <tr>
+      <td>Three</td>
+      <td>Three pres</td>
+    </tr>
+    <tr>
+      <td>Four</td>
+      <td>Four pres</td>
+    </tr>
+</table>
 
