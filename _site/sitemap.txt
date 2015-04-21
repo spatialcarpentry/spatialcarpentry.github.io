@@ -7,5 +7,3 @@ http://spatialcarpentry.github.io/rss.xml
 http://spatialcarpentry.github.io/sitemap.txt
 http://spatialcarpentry.github.io/tags.html
 http://spatialcarpentry.github.io/workshops.html
-
-http://spatialcarpentry.github.io/lessons/jekyll-introduction

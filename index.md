@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spatial Carpentry
-tagline: Teaching Spatial 
+tagline:  
 ---
 {% include JB/setup %}
 
