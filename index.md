@@ -39,21 +39,22 @@ This documentation is created to provide fundamental data on what spatial data i
   <tr>
     <th>Lesson</th>
     <th>Presentation</th>
-    <tr>
-      <td><a href="http://spatialcarpentry.github.io/basics/">Basics</a></td>
-      <td>One Pres</td>
-    </tr>
-    <tr>
-      <td>Two</td>
-      <Td>Two Pres</td>
-    </tr>
-    <tr>
-      <td>Three</td>
-      <td>Three pres</td>
-    </tr>
-    <tr>
-      <td>Four</td>
-      <td>Four pres</td>
-    </tr>
+  </tr>
+  <tr>
+    <td><a href="http://spatialcarpentry.github.io/basics/">Basics</a></td>
+    <td>One Pres</td>
+  </tr>
+  <tr>
+    <td>Two</td>
+    <td>Two Pres</td>
+  </tr>
+  <tr>
+    <td>Three</td>
+    <td>Three pres</td>
+  </tr>
+  <tr>
+    <td>Four</td>
+    <td>Four pres</td>
+  </tr>
 </table>
 
