@@ -9,7 +9,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Spatial Carpentry
+title : Spatial Data Carpentry
 tagline: Teaching Spatial
 author :
   name : Nathan Casler
