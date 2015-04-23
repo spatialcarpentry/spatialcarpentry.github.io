@@ -37,24 +37,33 @@ This documentation is created to provide fundamental data on what spatial data i
 
 <table>
   <tr>
-    <th>Lesson</th>
-    <th>Presentation</th>
+    <td>Setup QGIS, iPlant, iRods</td>
+    <td><a href="http://spatialcarpentry.github.io/setup/">Lesson</a></td>
+    <td></td>
+  <tr>
+    <td>Basics - Intro to Spatial Data</td>
+    <td><a href="http://spatialcarpentry.github.io/basics/">Lesson</a></td>
+    <td><a href="http://spatialcarpentry.github.io/basics-pres/">Presentation</a></td>
   </tr>
   <tr>
-    <td><a href="http://spatialcarpentry.github.io/basics/">Basics</a></td>
-    <td>One Pres</td>
+    <td>Data Collection</td>
+    <td><a href="http://spatialcarpentry.github.io/data-collection/">Lesson</a></td>
+    <td><a href="http://spatialcarpentry.github.io/data-collection-pres/">Presentation</a></td>
   </tr>
   <tr>
-    <td>Two</td>
-    <td>Two Pres</td>
+    <td>Data Hygiene</td>
+    <td><a href="http://spatialcarpentry.github.io/data-hygiene/">Lesson</a></td>
+    <td><a href="http://spatialcarpentry.github.io/data-hygiene-pres/">Presentation</a></td>
   </tr>
   <tr>
-    <td>Three</td>
-    <td>Three pres</td>
+    <td>Spatial Analysis</td>
+    <td><a href="http://spatialcarpentry.github.io/spatial-analysis/">Lesson</a></td>
+    <td><a href="http://spatialcarpentry.github.io/spatial-analysis-pres/">Presentation</a></td>
   </tr>
   <tr>
-    <td>Four</td>
-    <td>Four pres</td>
+    <td>Cartography</a>
+    <td><a href="http://spatialcarpentry.github.io/cartography/">Lesson</a></td>
+    <td><a href="http://spatialcarpentry.github.io/cartography-pres/">Presentation</a></td>
   </tr>
 </table>
 
