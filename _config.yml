@@ -28,6 +28,7 @@ author :
 #
 production_url : http://spatialcarpentry.github.io
 
+site_root : /
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
