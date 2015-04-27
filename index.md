@@ -5,27 +5,18 @@ tagline:
 ---
 {% include JB/setup %}
 
-#### WHO:
+This Spatial Data Carpentry site and workshop area a product by the iPlant Collaborative and the Arizona Environmental Grid Infrastructure Service (AEGIS).
 
-##### iPlant Collaborative
+The objective of this site is to provide a foundation for researchers and professionals looking to become more familiar with spatia data.
 
-This Spatial Data Carpentry site and Bootcamp area a product by the iPlant Collaborative with help from Nathan Casler and Daniel Guaderrama.
 
-#### WHAT:
+### Workshop
 
-The objective of this site is to provide learning materials for spatial data science.
+####  When & Where
 
-#### WHEN:
+First workshop will be held on Wednesday, May 20, 2015 from 9:00AM to 5:00PM, located at the Integrated Learning Center (ILC) RM #119 at the University of Arizona.
 
-First Bootcamp will be held in May 2015.
-
-#### WHERE:
-
-Located at BIO5 Institude at the University of Arizona
-
-#### WHY:
-
-To provide a foundation for researchers and professionals looking to become more familiar with spatia data.
+Registration is open and free. <a href="https://www.eventbrite.com/e/spatial-data-workshop-tickets-16503338931" target="_blank">Go here to register.</a>
 
 ----
 
