@@ -5,10 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-This Spatial Data Carpentry site and workshop area a product by the iPlant Collaborative and the Arizona Environmental Grid Infrastructure Service (AEGIS).
-
-The objective of this site is to provide a foundation for researchers and professionals looking to become more familiar with spatia data.
-
+This Spatial Data Carpentry site and workshops are sponsored by the iPlant Collaborative and the Arizona Environmental Grid Infrastructure Service (AEGIS) for researchers and professionals looking to become more familiar with spatia data.
 
 ### Workshop
 
