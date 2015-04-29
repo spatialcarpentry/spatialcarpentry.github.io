@@ -25,7 +25,7 @@ This documentation is created to provide fundamental data on what spatial data i
 
 <table>
   <tr>
-    <td>Setup QGIS, iPlant, iRods</td>
+    <td>Setup</td>
     <td><a href="http://spatialcarpentry.github.io/setup/">Lesson</a></td>
     <td></td>
   <tr>
