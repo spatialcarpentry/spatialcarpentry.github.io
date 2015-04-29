@@ -30,6 +30,27 @@ img {
   max-width: 100%;
 }
 
+/* post.html side-nav */
+.post-nav-title {
+  line-height: 22px;
+  font-weight: bold;
+}
+
+/* back to top */
+.back-to-top {
+  float: right;
+}
+
+/* more-resources */
+.more-resources a {
+  color: #808080;
+}
+
+/* footnotes */
+.footnotes a {
+  color: #808080;
+}
+
 /* Page header tweaks */
 .page-header {
   background-color: #f5f5f5;

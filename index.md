@@ -49,9 +49,14 @@ This documentation is created to provide fundamental data on what spatial data i
     <td><a href="http://spatialcarpentry.github.io/spatial-analysis-pres/">Presentation</a></td>
   </tr>
   <tr>
-    <td>Cartography</a>
+    <td>Cartography</td>
     <td><a href="http://spatialcarpentry.github.io/cartography/">Lesson</a></td>
     <td><a href="http://spatialcarpentry.github.io/cartography-pres/">Presentation</a></td>
+  </tr>
+  <tr>
+    <td>Data Sharing</td>
+    <td><a href="http://spatialcarpentry.github.io/data-sharing/">Lesson</a></td>
+    <td><a href="http://spatialcarpentry.github.io/data-sharing-pres/">Presentation</a></td>
   </tr>
 </table>
 
