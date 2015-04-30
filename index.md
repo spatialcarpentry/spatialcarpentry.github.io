@@ -5,15 +5,29 @@ tagline:
 ---
 {% include JB/setup %}
 
-This Spatial Data Carpentry site and workshops are sponsored by the iPlant Collaborative and the Arizona Environmental Grid Infrastructure Service (AEGIS) for researchers and professionals looking to become more familiar with spatia data.
+This Spatial Data Carpentry site and boot camps are sponsored by the iPlant Collaborative and the Arizona Environmental Grid Infrastructure Service (AEGIS).
 
-### Workshop
+## One day Intro to SDBC (Spatial Data Boot Camp)
+
+This boot camp modeled after successful software carpentry boot camps, is designed to introduce researchers to various data formats, open source tools to manage, share and visualize spatial data.
+
+#### Target audience:
+
+Researchers working with data that containing location/positional information (lat, long) and need to:
+
+- Choose appropriate data formats, perform QA/QC
+- Transform these datasets between appropriate formats to enable further analysis/sharing
+- Visualize data on maps using dekstop and web-based tools
+- Share spatial data using standard compliant methods
+- Access data from federal, regional repositories and perform analysis
+
+#### Prerequisites: None
 
 ####  When & Where
 
-First workshop will be held on Wednesday, May 20, 2015 from 9:00AM to 5:00PM, located at the Integrated Learning Center (ILC) RM #119 at the University of Arizona.
+First boot camp will be held on Wednesday, May 20, 2015 from 9:00AM to 5:00PM, located at the Integrated Learning Center (ILC) RM #119 at the University of Arizona.
 
-Registration is open and free. <a href="https://www.eventbrite.com/e/spatial-data-workshop-tickets-16503338931" target="_blank">Go here to register.</a>
+Registration is open. <a href="https://www.eventbrite.com/e/spatial-data-workshop-tickets-16503338931" target="_blank">Go here to register.</a>
 
 ----
 
