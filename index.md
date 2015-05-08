@@ -27,8 +27,6 @@ Researchers working with data that containing location/positional information (l
 
 First boot camp will be held on Wednesday, May 20, 2015 from 9:00AM to 5:00PM, located at the Integrated Learning Center (ILC) RM #119 at the University of Arizona.
 
-Registration is open. <a href="https://www.eventbrite.com/e/spatial-data-workshop-tickets-16503338931" target="_blank">Go here to register.</a>
-
 ----
 
 This documentation is created to provide fundamental data on what spatial data is, where to find it, how to manipulate it, along with some exercises. To begin, navigate through **Lessons**.
