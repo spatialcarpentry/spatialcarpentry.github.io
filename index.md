@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Spatial Carpentry
+title: Spatial Data Bootcamp
 tagline:  
 ---
 {% include JB/setup %}
 
-This Spatial Data Carpentry site and boot camps are sponsored by the iPlant Collaborative and the Arizona Environmental Grid Infrastructure Service (AEGIS).
+This Spatial Data Bootcamp site and boot camps are sponsored by the iPlant Collaborative and the Arizona Environmental Grid Infrastructure Service (AEGIS).
 
 ## One day Intro to SDBC (Spatial Data Boot Camp)
 
@@ -41,7 +41,7 @@ This documentation is created to provide fundamental data on what spatial data i
     <td><a href="http://spatialcarpentry.github.io/setup/">Lesson</a></td>
     <td></td>
   <tr>
-    <td>Basics - Intro to Spatial Data</td>
+    <td>Spatial Data Basics</td>
     <td><a href="http://spatialcarpentry.github.io/basics/">Lesson</a></td>
     <td><a href="http://spatialcarpentry.github.io/basics-pres/">Presentation</a></td>
   </tr>

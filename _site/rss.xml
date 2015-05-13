@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Spatial Data Carpentry</title>
-        <description>Spatial Data Carpentry - Nathan Casler & Daniel Guaderrama</description>
+        <title>Spatial Data Bootcamp</title>
+        <description>Spatial Data Bootcamp - Nathan Casler & Daniel Guaderrama</description>
         <link>http://spatialcarpentry.github.io</link>
         <link>http://spatialcarpentry.github.io</link>
-        <lastBuildDate>2015-04-30T14:53:21-07:00</lastBuildDate>
-        <pubDate>2015-04-30T14:53:21-07:00</pubDate>
+        <lastBuildDate>2015-05-13T09:41:23-07:00</lastBuildDate>
+        <pubDate>2015-05-13T09:41:23-07:00</pubDate>
         <ttl>1800</ttl>
 
 
