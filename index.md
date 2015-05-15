@@ -25,7 +25,7 @@ Researchers working with data that containing location/positional information (l
 
 ####  When & Where
 
-First boot camp will be held on Wednesday, May 20, 2015 from 9:00AM to 5:00PM, located at the Integrated Learning Center (ILC) RM #119 at the University of Arizona.
+First boot camp will be held on Wednesday, May 20, 2015 from 9:00AM to 5:00PM, located at the <a href="https://www.google.com/maps/place/32%C2%B013%2754.8%22N+110%C2%B056%2757.9%22W/@32.231892,-110.949429,19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" target="_blank">Integrated Learning Center (ILC)</a> RM #119 at the University of Arizona.
 
 ----
 
