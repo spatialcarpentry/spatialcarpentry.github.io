@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Spatial Data Bootcamp
+title: Spatial Data Boot Camp
 tagline:  
 ---
 {% include JB/setup %}
 
-This Spatial Data Bootcamp site and boot camps are sponsored by the iPlant Collaborative and the Arizona Environmental Grid Infrastructure Service (AEGIS).
+This Spatial Data Boot Camp site and boot camps are sponsored by the iPlant Collaborative and the Arizona Environmental Grid Infrastructure Service (AEGIS).
 
 ## One day Intro to SDBC (Spatial Data Boot Camp)
 
 This boot camp modeled after successful software carpentry boot camps, is designed to introduce researchers to various data formats, open source tools to manage, share and visualize spatial data.
 
-#### Target audience:
+### Target audience:
 
 Researchers working with data that containing location/positional information (lat, long) and need to:
 
@@ -21,11 +21,27 @@ Researchers working with data that containing location/positional information (l
 - Share spatial data using standard compliant methods
 - Access data from federal, regional repositories and perform analysis
 
-#### Prerequisites: None
+### What you need
 
-####  When & Where
+Please have the following completed before attending the Boot Camp:
 
-First boot camp will be held on Wednesday, May 20, 2015 from 9:00AM to 5:00PM, located at the <a href="https://www.google.com/maps/place/32%C2%B013%2754.8%22N+110%C2%B056%2757.9%22W/@32.231892,-110.949429,19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" target="_blank">Integrated Learning Center (ILC)</a> RM #119 at the University of Arizona.
+- QGIS installed
+- registered iPlant account
+- iRods QGIS plugin installed
+
+Steps to these are provided under [Setup](http://spatialcarpentry.github.io/setup/). Assistance will also be provided before the Boot Camp begins.
+
+**_Please arrive at 8:30AM if installation and configuration assistance is needed._**
+
+###  When & Where
+
+First boot camp will be held on Wednesday, May 20, 2015 from 9:00AM to 5:00PM.
+
+Please arrive at 8:45AM.
+
+**_Begins at 9AM sharp!_**
+
+Located at the <a href="https://www.google.com/maps/place/32%C2%B013%2754.8%22N+110%C2%B056%2757.9%22W/@32.231892,-110.949429,19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" target="_blank">Integrated Learning Center (ILC)</a> RM #119 at the University of Arizona.
 
 ----
 
