@@ -82,9 +82,15 @@ This documentation is created to provide fundamental data on what spatial data i
     <td><a href="http://spatialcarpentry.github.io/cartography-pres/">Presentation</a></td>
   </tr>
   <tr>
+    <td>Color Theory</td>
+    <td>&nbsp;</td>
+    <td><a href="http://spatialcarpentry.github.io/color-theory-pres/">Presentation</a></td>
+  </tr>
+  <tr>
     <td>Data Sharing</td>
-    <td><a href="http://spatialcarpentry.github.io/data-sharing/">Lesson</a></td>
+    <td>&nbsp;</td>
     <td><a href="http://spatialcarpentry.github.io/data-sharing-pres/">Presentation</a></td>
   </tr>
+
 </table>
 
